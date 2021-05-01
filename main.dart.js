@@ -46317,7 +46317,7 @@ N.Wc.prototype={
 $1:function(a){return!0},
 $S:36}
 F.xy.prototype={
-M:function(a,b){return new S.pl(new F.pz("Flutter Demo Home Page",null),"Flutter Demo",X.a2n(null,C.lR),null)}}
+M:function(a,b){return new S.pl(new F.pz("Flutter Web Page deployed with GitLab Actions",null),"Flutter Web",X.a2n(null,C.lR),null)}}
 F.pz.prototype={
 aQ:function(){return new F.tf(C.m)}}
 F.tf.prototype={
