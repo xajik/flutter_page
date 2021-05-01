@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Web Page deployed with GitLab Actions'),
+      home: MyHomePage(title: 'Flutter Web Page deployed with GitHub Actions'),
     );
   }
 }
